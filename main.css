@@ -108,6 +108,11 @@ text{
 
 /* Set a specific color for each brand */
 
+/* Github */
+.fa-github {
+  color:black;
+}
+
 /* LinkedIn */
 .fa-linkedin {
   color:black;
